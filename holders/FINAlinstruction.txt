@@ -1,0 +1,4 @@
+total 16K
+-rw-rw-r--. 1 saleemuddin1@gsuad.gsu.edu saleemuddin1@gsuad.gsu.edu 1.6K Jun 21 00:04 BasicCommands.txt
+-rwxrwxr-x. 1 saleemuddin1@gsuad.gsu.edu saleemuddin1@gsuad.gsu.edu   21 Jul 27 17:58 echod.sh
+-rwxrwxr-x. 1 saleemuddin1@gsuad.gsu.edu saleemuddin1@gsuad.gsu.edu   45 Jun 20 23:26 pushed.sh

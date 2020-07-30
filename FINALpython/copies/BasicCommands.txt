@@ -1,0 +1,13 @@
+1.	The command used to get help on a certain command is :help. 
+2.	To navigate left (while in ESC mode), press h. To navigate right, press l. To move down, press j. To move up,         press k. 
+3.	To insert, press i. This allows users to start typing on the file created on vi editor. ESC Mode is necessary.
+4.	To append, type a. This allows users to append text after the cursor. ESC Mode is necessary.
+5.	In order to substitute an occurrence of a character, type s to replace the character under the cursor. To subs        titute the occurrence of a word, type :(line numbers) s/old_word/new_word. This replaces all instances of a wo        rd with another word in a specified range. For example, 5,12 s/hello/hi replaces lines 5-12 with hi in place o        f hello. ESC Mode is necessary. 
+6.	To undo the last command, type u while in esc mode. 
+7.	To drop into command line mode, press ESC (escape).
+8.	This is range based substitution: ranges/old_word/new_word/g. EX: 1,10s/hello/hi/g replaces all instances of h        ello with hi from lines 1-10. This is range based deletion: :x,zd which deletes lines x through z. 
+9.	To find a character/string in a document use the following command: /stringname or /charactername. To find the        next occcurence type n. 
+10.	To save and quit, type :wq or :x. To simply quit, type :q.
+        To write a new file, type nano or vi filename. Once the file has been edited, press esc and type :w to save th        e written file. 
+11.	In order to run the shell command, first type: chmod +x scriptname.sh. This will allow program execution. Then        , type ./scriptname.sh
+
