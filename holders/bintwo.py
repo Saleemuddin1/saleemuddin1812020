@@ -1,7 +1,7 @@
 bin2 = open ('/home/saleemuddin1/Lab2/pushed.sh' ,"rb")
 bin3 = open ('/home/saleemuddin1/Lab2/echod.sh', "rb")
 bin4 = open ('/home/saleemuddin1/Lab2/BasicCommands.txt', "rb")
-f = open('/home/saleemuddin1/FinalExam/holders/binaryholder.bin', 'wb')
+f = open('/home/saleemuddin1/saleemuddin1812020/holders/binaryholder.bin', 'wb')
 print ("The Binary Contents from Lab2 Directory: ")
 #f = open('/home/saleemuddin1/holders/binaryholder.bin', 'r')
 for line in bin2:
