@@ -16,7 +16,7 @@ if (argc < 2)
         name = argv[1];
         printf("Filename : %s\n", name);
    }
- fi = fopen("/home/saleemuddin1/saleemuddin1812020/FINALc/hi.txt","r");
+ fi = fopen("/home/saleemuddin1/saleemuddin1812020/FINALc/original.txt","r");
  //fd = fopen("hi.txt", "w");
  if ( fi )
       {
@@ -34,6 +34,6 @@ if (argc < 2)
       {
          printf("Failed to open the file\n");
         }
-printf ("File Contents are in Original Input File: hi.txt\n");
+printf ("File Contents are in Original Input File: original.txt\n");
 return(0);
 }

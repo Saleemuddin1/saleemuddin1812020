@@ -9,9 +9,9 @@ FILE *f4;
 //char 
 char c,d,e;
 int counter = 69;
-f1 = fopen ("/home/saleemuddin1/Lab2/pushed.sh", "rb");
-f2 = fopen ("/home/saleemuddin1/Lab2/echod.sh", "rb");
-f3 = fopen ("/home/saleemuddin1/Lab2/BasicCommands.txt", "rb");
+f1 = fopen ("/home/saleemuddin1/saleemuddin1812020/FINALc/copies/pushed.sh", "rb");
+f2 = fopen ("/home/saleemuddin1/saleemuddin1812020/FINALc/copies/echod.sh", "rb");
+f3 = fopen ("/home/saleemuddin1/saleemuddin1812020/FINALc/copies/BasicCommands.txt", "rb");
 f4 = fopen ("/home/saleemuddin1/saleemuddin1812020/holders/binaryholder2.bin","wb");
 c = fgetc(f1);
 d = fgetc(f2);
